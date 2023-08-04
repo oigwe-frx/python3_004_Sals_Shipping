@@ -17,4 +17,14 @@ Ground Shipping, which is a small flat charge plus a rate based on the weight of
 
 
 Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.
+
+Flat charge: $125.00
+
 Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
+
+| Weight of Package                         | Price per Pound | Flat Charge |
+|-------------------------------------------|-----------------|-------------|
+| 2 lb or less                              | $4.50           | $0.00      |
+| Over 2 lb but less than or equal to 6 lb  | $9.00           | $0.00      |
+| Over 6 lb but less than or equal to 10 lb | $12.00          | $0.00      |
+| Over 10 lb                                | $14.50          | $0.00     |
